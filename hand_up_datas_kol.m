@@ -1,0 +1,11 @@
+load('DataAfterArtifact.mat')
+dividing
+sum_of_neg_and_pos_of_datas
+sum_of_abs_of_datas
+average_charactrestics
+variance
+power_charactrestics
+DWT_charactrestics
+AR_chractrestics
+chractrestic_matrix
+twoD_char_matrix
